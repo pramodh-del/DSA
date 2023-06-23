@@ -1,2 +1,2 @@
 # DSA
-DSA Assignment
+DSA Arrays Assignment
